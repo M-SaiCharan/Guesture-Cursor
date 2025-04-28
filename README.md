@@ -43,7 +43,7 @@ Move the cursor, left click, right click, and even scroll — all using simple h
 2. **Install required libraries**:
 
    ```bash
-   pip install opencv-python mediapipe pyautogui numpy
+   pip install requirements.txt
    ```
 
 3. **Run the project**:
